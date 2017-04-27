@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Program1"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program1" />
+        <item
+            android:id="@+id/Program2"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program2" />
+        <item
+            android:id="@+id/Program3"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program3" />
+
+        <item
+            android:id="@+id/Program4"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program4" />
+        <item
+            android:id="@+id/Program5"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program5" />
+        <item
+            android:id="@+id/Program6"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program6" />
+        <item
+            android:id="@+id/Program7"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program7" />
+        <item
+            android:id="@+id/Program8"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program8" />
+        <item
+            android:id="@+id/Program9"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program9" />
+        <item
+            android:id="@+id/Program10"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program10" />
+        <item
+            android:id="@+id/Program11"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program11" />
+        <item
+            android:id="@+id/Program12"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Program12" />
+
+
+    </group>
+
+
+</menu>

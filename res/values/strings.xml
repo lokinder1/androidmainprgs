@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lokender</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="images">
+        <item>Select Image</item>
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+    </string-array>
+
+</resources>

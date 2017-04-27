@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="xyz.lokender.lokender">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Prac10Activity"
+            android:label="Prac 10" />
+        <activity
+            android:name=".Prac8Activity"
+            android:label="Prac 8" />
+        <activity
+            android:name=".Prac9Activity"
+            android:label="Prac 9" />
+        <activity
+            android:name=".Prac11Activity"
+            android:label="Prac 11" />
+        <activity
+            android:name=".Prac2Activity"
+            android:label="Prac 2" />
+        <activity
+            android:name=".Prac1Activity"
+            android:label="Prac 1" />
+        <activity
+            android:name=".Prac3Activity"
+            android:label="Prac 3" />
+        <activity
+            android:name=".Prac4Activity"
+            android:label="Prac 4" />
+        <activity
+            android:name=".Prac5Activity"
+            android:label="Prac 5" />
+        <activity
+            android:name=".Prac6Activity"
+            android:label="Prac 6" />
+        <activity
+            android:name=".Prac7Activity"
+            android:label="Prac 7" />
+        <activity
+            android:name=".Prac12Activity"
+            android:label="Prac 12" />
+        <activity
+            android:name=".Prac11bActivity"
+            android:label="Prac 11" />
+        <activity
+            android:name=".Prac3bActivity"
+            android:label="Prac 3b" />
+    </application>
+
+</manifest>
